@@ -17,7 +17,7 @@ function App() {
   const [cart,setCart]=useState([]);
   const [cartcount,setCartCount]=useState();
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={flipzon}>
           <Routes>
             <Route path="/View-Product/:id" element={<ViewProduct cart={cart} setCart={setCart}/>}/>
             <Route path='/Cart' element={<Cart cart={cart} />}/>
