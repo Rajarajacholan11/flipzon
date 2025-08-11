@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flipzon/static/css/main.f855e6bc.css",
-    "main.js": "/flipzon/static/js/main.a40fdf88.js",
+    "main.js": "/flipzon/static/js/main.e1a409e7.js",
     "static/js/453.7cc1a088.chunk.js": "/flipzon/static/js/453.7cc1a088.chunk.js",
     "static/media/businesswomanposing.jpg": "/flipzon/static/media/businesswomanposing.e3da6ffc5d6c7a222c01.jpg",
     "static/media/loginimage.jpg": "/flipzon/static/media/loginimage.5749ec792f3bd0f91ad8.jpg",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/flipzon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/flipzon/index.html",
     "main.f855e6bc.css.map": "/flipzon/static/css/main.f855e6bc.css.map",
-    "main.a40fdf88.js.map": "/flipzon/static/js/main.a40fdf88.js.map",
+    "main.e1a409e7.js.map": "/flipzon/static/js/main.e1a409e7.js.map",
     "453.7cc1a088.chunk.js.map": "/flipzon/static/js/453.7cc1a088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a40fdf88.js"
+    "static/js/main.e1a409e7.js"
   ]
 }
